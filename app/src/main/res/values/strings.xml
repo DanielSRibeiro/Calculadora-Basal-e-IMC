@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IMC_Kotlin</string>
+    <string-array name="sexo">
+        <item>Não Informado</item>
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+</resources>
