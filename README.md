@@ -14,6 +14,6 @@
 - É Necessário colocar o Sexo, Tamanho(cm) e o seu Peso(kg)
 
 <div>
-<img src="gif/Basal.gif" width ="300"  align="left"/>
-<img src="gif/ErroBasal.gif" width ="300"  align="right"/>
+<img src="gif/Basal.gif" width ="250"  align="left"/>
+<img src="gif/ErroBasal.gif" width ="260"  align="right"/>
 </div>
